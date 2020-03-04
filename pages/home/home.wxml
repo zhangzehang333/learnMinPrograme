@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class='title'>pages/home/home.wxml</text>
 <button size='mini'>this is a button</button>
+<text>知识点1，哈哈哈</text>
